@@ -3,7 +3,7 @@ name: pr
 on:
   push:
     branches-ignore:
-      - main
+      - trunk
     tags-ignore:
       - '*'
 

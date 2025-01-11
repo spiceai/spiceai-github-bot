@@ -3,7 +3,7 @@ kind: Spicepod
 name: spiceai-theo-pr-bot
 
 datasets:
-  - from: github:github.com/ewgenius/spice-pr-bot-demo/files/main
+  - from: github:github.com/spiceai/spiceai-github-bot/files/trunk
     name: repo_docs
     params:
       include: 'CONTRIBUTING.md; README.md; .github/PULL_REQUEST_TEMPLATE.md'
